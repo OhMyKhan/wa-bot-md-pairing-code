@@ -43,7 +43,7 @@ module.exports = {
   mongodb_uri: 'Your-MongoDb-URI', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://daniapi.biz.id',
-    key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
+    key: 'sk-barapz4paugz4ow45' // Register here: https://daniapi.biz.id/#sign-up
   },
   bot: {
     name: 'Bot Anjing',
