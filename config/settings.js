@@ -40,7 +40,7 @@ module.exports = {
   auto_read_messages: true,
   auto_typing: true,
   auto_recording: false,
-  mongodb_uri: '"mongodb+srv://Kahn:bL4i1euCEnsxWuDA@cluster0yes.sr87aoe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0yes', // Register here: https://mongodb.com/#sign-up
+  mongodb_uri: 'mongodb+srv://Kahn:bL4i1euCEnsxWuDA@cluster0yes.sr87aoe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0yes', // Register here: https://mongodb.com/#sign-up
   api: {
     url: 'https://daniapi.biz.id',
     key: 'sk-barapz4paugz4ow45' // Register here: https://daniapi.biz.id/#sign-up
